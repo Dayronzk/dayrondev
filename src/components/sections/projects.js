@@ -269,10 +269,10 @@ const Projects = () => {
       <a ><br></br></a>
       <a ><br></br></a>
       <a ><br></br></a>
-      <h2 ref={revealTitle}>Proyectos en los que he participado.</h2>
+      <h2 className="title">Proyectos en los que he participado.</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        Ver lista
+        Ver en lista
       </Link>
 
       <ul className="projects-grid">
