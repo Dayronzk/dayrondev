@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Dayron Hernandez',
     description:
-      'Dayron Hernandez es un Ingeniero en formacion de software que se especializa en crear y diseñar experiencias digitales excepcionales.',
+      'Dayron Hernandez es un Ingeniero en formacion, desarrollador de software que se especializa en crear y diseñar experiencias digitales excepcionales.',
     siteUrl: 'https://dayrondev.com',
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'dayronzk',
