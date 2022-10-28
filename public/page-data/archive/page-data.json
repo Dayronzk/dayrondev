@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2017-11-12","title":"Cargando proyectos","tech":["NativeScript Vue","iOS","Android"],"github":"#","external":"#","ios":"#","android":"#","company":"FullStack"},"html":"<hr>\n<p>Un ejemplo de vista de portafolio...</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3825832676"]}
