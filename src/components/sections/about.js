@@ -130,7 +130,6 @@ const About = () => {
     'CMS: (Wordpress, Prestashop, Joomla, Drupal, Magento)', 
     'Adobe: (Lightroom, Photoshop, Illustrator)',
     'Frameworks y Libraries: React, React Native, Node, Express',
-    'Adobe: (Lightroom, Photoshop, Illustrator)',
     'Herramientas: (Figma, Sketch, Github, Notion, Git, Trello, Slack, Visual Estudio Code, Terminal)',
     'Sistemas operativos: (MacOs, Windows, Linux)'];
 
@@ -152,7 +151,7 @@ const About = () => {
 
 
             <p>
-            Paso la mayor parte de mi tiempo mejorando mis conocimientos de programación, haciendo experimentos y proyectos, y mi pasión es desarrollar tecnología util que facilite la vida de las personas con diseños accesibles e inclusivos.
+            Paso la mayor parte de mi tiempo mejorando mis conocimientos de programación, haciendo experimentos y proyectos. Mi pasión es desarrollar tecnología util que facilite la vida de las personas con diseños accesibles e inclusivos.
             </p>
 
             <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p>

@@ -42,10 +42,10 @@ module.exports = {
       name: 'Experiencia',
       url: '/#jobs',
     },
-    {
+    /*{
       name: 'Proyectos',
       url: '/#proyectos',
-    },
+    },*/
     {
       name: 'Contacto',
       url: '/#contact',
