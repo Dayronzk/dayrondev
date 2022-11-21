@@ -1,0 +1,16 @@
+---
+date: '2017-11-12'
+title: 'Cargando proyectos'
+github: '#'
+external: '#'
+ios: '#'
+android: '#'
+tech:
+  - NativeScript
+  - iOS
+  - Android
+company: 'FullStack'
+showInProjects: true
+---
+---
+Un ejemplo de vista de portafolio...

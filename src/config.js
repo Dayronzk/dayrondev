@@ -1,36 +1,40 @@
 module.exports = {
   email: 'info@dayrondev.com',
   
+  
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/dayronzk',
-    },
-    {
       name: 'Whatsapp',
       url: 'https://wa.me/34685486408',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/dayronzk',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/dayronzk',
     },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/dayron-hernandez/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/dayronzk',
+      name: 'Instagram',
+      url: 'https://www.instagram.com/dayronzk',
+
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/dayronzk',
+    },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/dayronzk',
+  
     },
     {
       name: 'Fork',
       url: '/archive',
     },
+    {
+      name: 'Pay',
+      url: 'https://linktr.ee/dayronzk',
+    },
+    
   ],
 
   navLinks: [
@@ -42,10 +46,15 @@ module.exports = {
       name: 'Experiencia',
       url: '/#jobs',
     },
-    /*{
+   /* {
+      name: 'Servicios',
+      url: '/#servicios',
+    },
+    */
+    {
       name: 'Proyectos',
       url: '/#proyectos',
-    },*/
+    },
     {
       name: 'Contacto',
       url: '/#contact',
