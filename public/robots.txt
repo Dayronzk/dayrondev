@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dayrondev.com/sitemap/sitemap-index.xml
+Host: https://dayrondev.com

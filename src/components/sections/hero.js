@@ -64,13 +64,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      Tengo 5 años de experiencia en el mundo tech. <br></br> Mis pasiones son los negocios y la tecnología, y se relacionan bastante bien.   
+      Cuento con 5 años de experiencia en el mundo tech y me desempeño como CTO en DomesticoShop. <br></br> Mis pasiones son los negocios y la tecnología.  
     {'  '+' '}
     
         <a href="https://www.linkedin.com/in/dayron-hernandez/" target="_blank" rel="noreferrer">
-          Full Stack Developer (MERN) Linkedin
+        Contactame en Linkedin.
         </a>
-        .
+        
       </p>
     </>
   );

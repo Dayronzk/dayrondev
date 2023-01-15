@@ -126,11 +126,13 @@ const About = () => {
   }, []);
 
   const skills = ['Lenguajes: (Swift, JavaScript, HTML, CSS, PHP)',
-    'Bases de datos: (MySQL, MongoDB)',
-    'CMS: (Wordpress, Prestashop, Joomla, Drupal, Magento)', 
+    'Bases de datos: (MySQL, MongoDB, SQL server)',
+    'CMS: (Wordpress, Prestashop, Joomla, Drupal, Magento)',
+    'CMR: (Zoho, Nabuco, Hubspot)',
+    'ERP: (Dynamic Navision 2017, Nabuco)', 
     'Adobe: (Lightroom, Photoshop, Illustrator)',
     'Frameworks y Libraries: React, React Native, Node, Express',
-    'Herramientas: (Figma, Sketch, Github, Notion, Git, Trello, Slack, Visual Estudio Code, Terminal)',
+    'Herramientas: (Figma, Sketch, Github, Notion, Git, Jira, Trello, Slack, Visual Estudio Code, Terminal)',
     'Sistemas operativos: (MacOs, Windows, Linux)'];
 
   return (
@@ -141,17 +143,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hola👋, soy Dayron Desarrollador de software y Diseñador. Tengo 5 años de experiencia en el mundo tech. 
-            
-            
+            Hola👋, soy Dayron Desarrollador de software y Diseñador. Cuento 5 años de experiencia en el mundo tech y me desempeño como CTO en DomesticoShop.
             </p>
             <p>
-                        Mis pasiones son los negocios y la tecnología. 
+                Mis pasiones son los negocios y la tecnología. 
             </p>
 
-
             <p>
-            Paso la mayor parte de mi tiempo mejorando mis conocimientos de programación, haciendo experimentos y proyectos. Mi pasión es desarrollar tecnología util que facilite la vida de las personas con diseños accesibles e inclusivos.
+            Pasó la mayor parte de mi tiempo gestionando proyectos e implementaciones, mejorando mis conocimientos de programación y haciendo experimentos, mi objetivo principal es desarrollar tecnología útil que facilite la vida de las personas y la gestión de las empresas con diseños accesibles e inclusivos.
             </p>
 
             <p>Aquí hay algunas tecnologías con las que he estado trabajando recientemente:</p>
